@@ -1,0 +1,70 @@
+[
+  {
+    "id": "1",
+    "lat": "28.586718",
+    "lng": "77.042535",
+    "label": "Dhoraji Apartments, Block 4 Gulshan-e-Iqbal, Karachi, Pakistan"
+  },
+  {
+    "id": "2",
+    "lat": "39.099789",
+    "lng": "-94.578560",
+    "label": "Kansas City, MO, USA"
+  },
+
+  {
+    "id": "3",
+    "lat": "18.459261",
+    "lng": "79.136238",
+    "label": "Karimnagar, Telangana, India"
+  },
+  {
+    "id": "4",
+    "lat": "24.930800",
+    "lng": "67.198930",
+    "label": "Karachi Cant Station, Karachi Cantonment Karachi, Pakistan"
+  },
+
+  {
+    "id": "5",
+    "lat": "49.421590",
+    "lng": "20.960220",
+    "label": "Krynica Zdrój, Krynica, Poland"
+  },
+  {
+    "id": "6",
+    "lat": "47.034322",
+    "lng": "15.406819",
+    "label": "Kärntner Straße, Graz, Austria"
+  },
+  {
+    "id": "7",
+    "lat": "25.6060311",
+    "lng": "85.0981835",
+    "label": "K B Sahay High School Patna, Sheikhpura, Patna, Bihar, India"
+  },
+  {
+    "id": "8",
+    "lat": "25.6060311",
+    "lng": "85.0981835",
+    "label": "Kingman, AZ, USA"
+  },
+  {
+    "id": "9",
+    "lat": "31.4832209",
+    "lng": "74.0541925",
+    "label": "Lahore, Pakistan"
+  },
+  {
+    "id": "10",
+    "lat": "33.8003309",
+    "lng": "-118.2261501",
+    "label": "Long Beach, CA, USA"
+  },
+  {
+    "id": "11",
+    "lat": "22.8963015",
+    "lng": "-109.9680178",
+    "label": "Los Cabos, BCS, Mexico"
+  }
+]
